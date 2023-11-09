@@ -1,6 +1,6 @@
 //Unidad Logico Aritmetica
 
-module ALU(
+module src(
 	input [3:0] A,
 	input [3:0] B,
 	input [2:0] F,
